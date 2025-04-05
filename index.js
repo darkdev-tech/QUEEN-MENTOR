@@ -110,8 +110,8 @@ console.log("Session downloaded ✅")
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there ✞︎ QUEEN ✞︎ MD ✞︎ BOT ✞︎ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is auser friendly whatsapp bot created by POPKID XTECH INC. \ud83c\udf8a, Meet ✞︎ QUEEN ✞︎ WhatsApp Bot.\n\n *Thanks for using ✞︎ QUEEN ✞︎ MD BOT ✞︎ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 🥲\n \nhttps://whatsapp.com/channel/0029Vb5lRrt17EmvF8jUZT3h\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Popkiddevs/POPKID-XTECH\n\n> © Powered BY ✞︎ QUEEN ✞︎ TECH ✞︎ \ud83d\udda4`;
-  conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/nk71o3.jpg` }, caption: up })
+  let up = `*Hello there ✞︎ QUEEN ✞︎ MD ✞︎ BOT ✞︎ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is auser friendly whatsapp bot created by QUEEN TECH INC. \ud83c\udf8a, Meet ✞︎ QUEEN ✞︎ WhatsApp Bot.\n\n *Thanks for using ✞︎ QUEEN ✞︎ MD BOT ✞︎ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 🥲\n \nhttps://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/darkdev-tech/QUEEN-md\n\n> © Powered BY ✞︎ QUEEN ✞︎ TECH ✞︎ \ud83d\udda4`;
+  conn.sendMessage(conn.user.id, { image: { url: `https://ibb.co/zHmbM6r7` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)  
