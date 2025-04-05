@@ -70,7 +70,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/Popkiddevs/POPKID-XTECH';
+    const githubRepoURL = 'https://github.com/darkdev-tech/QUEEN-md';
 
     try {
         // Extract username and repo name from the URL
@@ -94,7 +94,7 @@ async (conn, mek, m, { from, reply }) => {
 
 > *ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ 🌟🍴*
 
-https://github.com/Popkiddevs/POPKID-XTECH
+https://github.com/darkdev-tech/QUEEN-md
 ──────────────────
 ${readMore}
 \`BOT NAME:\`❄️
