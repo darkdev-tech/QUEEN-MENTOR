@@ -209,7 +209,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/nk71o3.jpg` },
+                image: { url: `https://ibb.co/zHmbM6r7` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -227,7 +227,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/kxdej4.m4a' },
+            audio: { url: 'https://files.catbox.moe/qz77hs.m4a' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
