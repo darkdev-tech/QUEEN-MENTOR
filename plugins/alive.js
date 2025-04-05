@@ -31,7 +31,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send image + caption + audio combined
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/nk71o3.jpg` },  
+            image: { url: `https://ibb.co/zHmbM6r7` },  
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Attach audio within the same "quoted" message for grouping
         await conn.sendMessage(from, { 
-            audio: { url: 'https://files.catbox.moe/5df4ei.m4v' },
+            audio: { url: 'https://files.catbox.moe/qz77hs.m4a' },
             mimetype: 'audio/mp4',
             ptt: true 
         }, { quoted: mek });
