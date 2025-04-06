@@ -715,7 +715,7 @@ cmd({
 
         // Format the output
         let textt = `
-╭───「 POPKID MD 」───◆  
+╭───「 QUEEN MD 」───◆  
 │ ∘ ɢʀᴏᴜᴘ: ${groupName}  
 │ ∘ ɢʀᴏᴜᴘ ɪᴅ: ${from}  
 │ ∘ ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs: ${memberCount}  
