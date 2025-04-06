@@ -8,15 +8,15 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { reply }) => {
     const familyList = `
-         *[ • POPKID'S 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
+         *[ • QUEEN'S 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
 
-    [ • POPKID: BESTS🫴👸 ]
+    [ • QUEEN: BESTS🫴👸 ]
        *•────────────•⟢*
                 *𝖥𝖱𝖨𝖤𝖭𝖣’𝖲*
       *╭┈───────────────•*
-      *│  ◦* *▢➠ HUSSEIN ICRAHM*
-      *│  ◦* *▢➠ SPARTA SPIRES*
-      *│  ◦* *▢➠ DAVIL XAVIER*
+      *│  ◦* *▢➠ DARK DEV TECH*
+      *│  ◦* *▢➠ POPKID DEV*
+      *│  ◦* *▢➠ JAY TECH HUB*
       *╰┈───────────────•*
         *•────────────•⟢*
     `;
