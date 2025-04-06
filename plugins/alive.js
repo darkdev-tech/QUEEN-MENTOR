@@ -31,7 +31,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send image + caption + audio combined
         await conn.sendMessage(from, { 
-            image: { url: `https://ibb.co/zHmbM6r7` },  
+            image: { url: `https://files.catbox.moe/efiab6.jpg` },  
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
