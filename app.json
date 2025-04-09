@@ -15,7 +15,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/efiab6.jpg"
+      "value": "https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26"
     }, 
     
     "LIVE_MSG": {
@@ -84,13 +84,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝔮𝔲𝔢𝔢𝔫 𝔱𝔢𝔠𝔥 🥰"
+      "value": "DARK BOT"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112167030"
+      "value": "254107065646"
 
     }, 
 
